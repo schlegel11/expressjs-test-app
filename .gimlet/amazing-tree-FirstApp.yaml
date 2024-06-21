@@ -1,4 +1,4 @@
-app: FirstApp
+app: first-app
 env: amazing-tree
 namespace: default
 chart:
